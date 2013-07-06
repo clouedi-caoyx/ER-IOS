@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'erTests' target in the 'erTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
